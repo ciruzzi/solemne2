@@ -1,0 +1,25 @@
+*   {
+	margin:1;
+	padding:1;
+	background:url(fondo.jpg);
+	color:black;
+	}
+
+img{
+	width:40%;
+	height: 55%;
+	position: absolute;
+	left:55%;
+	top:20%;
+}
+h1,h2{
+	text-align: center;
+}
+
+section {
+	width: 50%;
+	margin:10px;
+	color: #fff;
+	padding: 5px;
+	border: 5px dotted red;
+	}
